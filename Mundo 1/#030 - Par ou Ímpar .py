@@ -8,5 +8,5 @@ print('=='*20)
 if resultado==0:
     print('O número {} é par!'.format(numero))
 else:
-    print('O numero {} é impar'.format(numero5))
+    print('O numero {} é impar'.format(numero))
 print('=='*20)

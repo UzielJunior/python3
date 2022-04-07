@@ -42,6 +42,7 @@ while True:
             break
 
     print('Vamos jogar novamente...\n')
+
 print(f'GAME OVER! Voce venceu {cont} vezes...')
 
 
